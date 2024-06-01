@@ -1,0 +1,179 @@
+{
+  "name": "EnigmaPink",
+  "version": "",
+  "description": "Dark pink theme :3",
+  "color": "#fab6ef",
+  "authors": [
+    {
+      "name": "Glitch",
+      "id": "628840840160083978"
+    },
+
+    {
+      "name": "sarp <3",
+      "id": "466275679730925568"
+    }
+
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#212326",
+      "#DECD9A"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "rgba(0, 0, 0, 0.98)"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#141414",
+      "#EBEBEB"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(0, 0, 0, 0.94)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "rgba(0, 0, 0, 0.97)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "rgba(0, 0, 0, 0.98)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "rgba(0, 0, 0, 0.96)"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#212326",
+      "#DECD9A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "CHANNEL_ICON": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "HEADER_PRIMARY": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "HEADER_SECONDARY": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#AF98E4",
+      "#506D1B"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#747474",
+      "#B8B8B8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "KEYBOARD": [
+      "#212326",
+      "#DECD9A"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#292929",
+      "#D6D6D6"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "rgba(255, 255, 255, 0.9)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#292929",
+      "rgba(226, 226, 226, 0.7)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "rgba(255, 255, 255, 1)"
+    ],
+    "TEXT_LINK": [
+      "#FF7C7C",
+      "#008383"
+    ],
+    "TEXT_MUTED": [
+      "#B6B6B6",
+      "#494949"
+    ],
+    "TEXT_NORMAL": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "TEXT_PRIMARY": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "WHITE": [
+      "#fab6ef",
+      "#ce86c2"
+    ],
+    "YELLOW": [
+      "#ce86c2",
+      "#557B00"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#ce86c2",
+    "PLUM_20": "#151619",
+    "PLUM_22": "#001B00",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#C8C8C8",
+    "PRIMARY_400": "#585858",
+    "PRIMARY_500": "#292929",
+    "PRIMARY_600": "#151619",
+    "PRIMARY_630": "#1F1F1F",
+    "PRIMARY_700": "#212326",
+    "PRIMARY_800": "#212326",
+    "PRIMARY_900": "#212326",
+    "RED_400": "#ce86c2"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#151619"
+  }
+}
