@@ -1,13 +1,19 @@
 {
-  "name": "Enigma",
+  "name": "EnigmaPink",
   "version": "",
-  "description": "Dark Purple Theme",
-  "color": "#7C82FF",
+  "description": "Dark pink theme :3",
+  "color": "#fab6ef",
   "authors": [
     {
       "name": "Glitch",
       "id": "628840840160083978"
+    },
+
+    {
+      "name": "sarp <3",
+      "id": "466275679730925568"
     }
+
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
@@ -70,28 +76,28 @@
       "#04010173"
     ],
     "CHANNELS_DEFAULT": [
-      "#7C82FF",
-      "#8381FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "CHANNEL_ICON": [
-      "#7C82FF",
-      "#8381FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#151619",
       "#EAE9E6"
     ],
     "HEADER_PRIMARY": [
-      "#7C82FF",
-      "#8381FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "HEADER_SECONDARY": [
-      "#7C82FF",
-      "#8381FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#7C82FF",
-      "#8381FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "INTERACTIVE_HOVER": [
       "#AF98E4",
@@ -102,8 +108,8 @@
       "#B8B8B8"
     ],
     "INTERACTIVE_NORMAL": [
-      "#7C82FF",
-      "#8381FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "KEYBOARD": [
       "#212326",
@@ -134,24 +140,24 @@
       "#494949"
     ],
     "TEXT_NORMAL": [
-      "#927CFF",
-      "#6D80FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "TEXT_PRIMARY": [
-      "#927CFF",
-      "#6D80FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "WHITE": [
-      "#927CFF",
-      "#6D80FF"
+      "#fab6ef",
+      "#ce86c2"
     ],
     "YELLOW": [
-      "#AA84FF",
+      "#ce86c2",
       "#557B00"
     ]
   },
   "rawColors": {
-    "BRAND_500": "#4C19A9",
+    "BRAND_500": "#ce86c2",
     "PLUM_20": "#151619",
     "PLUM_22": "#001B00",
     "PRIMARY_100": "#FFFFFF",
@@ -165,7 +171,7 @@
     "PRIMARY_700": "#212326",
     "PRIMARY_800": "#212326",
     "PRIMARY_900": "#212326",
-    "RED_400": "#4C19A9"
+    "RED_400": "#ce86c2"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#151619"
